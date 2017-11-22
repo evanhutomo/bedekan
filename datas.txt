@@ -1,3 +1,4 @@
+#D
 道路-douro-road,highway
 だけ-dake-only
 橙色-daidaiiro-orange color
@@ -25,3 +26,31 @@
 出会える-deaeru-to encounter (menghadapi)
 電球-denkyuu-light bulb
 独立-dokuritsu-independent (mandiri)
+#F
+踏む-fumu-to step on
+触れる-fureru-to touch
+増える-fueru-to increase/expand
+複雑-fukuzatsu-complexity
+不快-fukai-unpleasant/uncomfortable
+ふわふわ-fuwafuwa-fluffy/light/airy/soft
+再び/もう/再-futatabi/mou/sai-again
+普通-futsu-usually
+複雑な-fukuzatsu-complex
+風雨-fuu'u-hujan angin
+不断-fudan-unstopable
+含まれる-fukumareru-to included
+不便な-fubenna-inconvenient
+深い-fukai-deep
+古い-furui-old
+不安-fuan-anxiety/worry
+風味-fuumi-flavor
+富士山-Fujisan-Fuji mountain
+普段-fudan-usually
+負担-futan-beban tanggungjawab
+雰囲気-funiki-atmosphere
+不安定-fuantei-unstable
+複数-fukusuu-multiple
+震える-furueru-to tremble (gemetar)
+蒸す-fukasu-to steam
+服用-fukuyou-take medicine
+ふやかす-fuyakasu-lembek

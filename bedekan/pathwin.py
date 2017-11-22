@@ -4,6 +4,7 @@
 import os.path
 import random
 from appJar import gui
+import numpy as np
 
 app = gui()
 app.setGeometry("fullscreen")
@@ -74,7 +75,7 @@ def loadandrand():
 
 def resetlabel(wdgt):
     bun = loadandrand().split("-")
-    app.setLabel("romaji", str(bun[1]))
-    app.setLabel("meaning", str(bun[2]))
-    app.setLabel("kanji", str(bun[0]))
-
+    if len(bun) != 1:
+        app.setLabel("romaji", str(bun[1]))
+        app.setLabel("meaning", str(bun[2]))
+        app.setLabel("kanji", str(bun[0]))
