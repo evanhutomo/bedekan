@@ -1,0 +1,27 @@
+道路-douro-road,highway
+だけ-dake-only
+橙色-daidaiiro-orange color
+電力-denryoku-electrical power
+だめ-dame-no good
+段々-dandan-gradually/little by little
+大体-daitai-generaly/almost
+大丈夫-daijoubu-okay/alright
+泥棒-dorobou-thief
+大根-daikon-japanese radish
+断食-danjiki-fasting
+大事-daiji-important
+大工-daiku-carpenter
+台所-daidokoro-kitchen
+暖房器-danbouki-heather
+丼-donburi-bowl of rice
+電気-denki-electricity
+動物-doubutsu-animal
+同意する-doi suru-to agree
+黙る-damaru-to silent/shut up
+出す-dasu-to put/to give
+出来る-dekiru-to be able to
+どうやら-douyara-apparantely
+同士-doushi-companion, fellow
+出会える-deaeru-to encounter (menghadapi)
+電球-denkyuu-light bulb
+独立-dokuritsu-independent (mandiri)
