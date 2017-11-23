@@ -9,37 +9,13 @@ import numpy as np
 app = gui()
 app.setGeometry("fullscreen")
 score = []
-f = open("../datas.txt", "r")
+f = open("../datas2.txt", "r")
 datas = f.readlines()
 
-def path_write():
-    f = open("..\datas.txt", "w")
-    f.write("samantha\n")
-    f.write("evan\n")
-    f.write("hutomo\n")
-    f.close()
-
-# def tampilan(data):
-#     bun = data
 
 def path_read():
-    # a = datas[2].split()
-    # print("total data : " + str(len(datas)))
-    # rand_qlist = random.sample(datas, len(datas))
-    # random.shuffle(rand_qlist);
-
     bun = loadandrand().split("-")
 
-    # for i in rand_qlist:
-    #     bun = i.split()
-    #
-    #     txtinput = raw_input("press enter to reveal %s, %s kanji : " % (str(bun[1]), str(bun[3]))).lower().strip()
-    #     print(str(bun[0]))
-
-    # bun = rand_qlist[0].split()
-
-    # raw_input("press enter to reveal")
-    # print(str(bun[0]))
     app.setFont(60)
     app.addLabel("romaji", str(bun[1]), row=0, column=0, rowspan=0, colspan=0)
     app.setLabelBg("romaji", "white")
