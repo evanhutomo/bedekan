@@ -1,77 +1,140 @@
-正直-shoujiki-honest
-正解-seikai-correct answer
-貝-kai-shell
-弓矢-yumiya-bow and arrow
-雲-kumo-cloud
-家族-kazoku-family
-黄色-kiiro-yellow
-戸-to-door
-市場-ichiba-market
-矢ッ張り-yappari-also, as expected
-姉-ane-older sister
-紙幣-shihei-paper money
-細かい-komakai-chopped finely(small)
-細い-hosoi-thin
-算出-sanshutsu-calculation
-知識-chishiki-knowledge
-知る-shiru-to know
-親切-shinsetsu-kindness
-親-oya-parents
-兄弟-kyoudai-siblings
-南東-nantou-southeast
-南瓜-kabocha-pumpkin
-新聞-shinbun-newspaper
-聞く-kiku-to ask
-明日-ashita-tommorow
-明治-meiji-meiji era
-妹-imouto-younger sister
-体育-taiiku-physical education
-晴れ-hare-clear weather
-星-hoshi-star
-売る-uru-to sell
-売店-baiten-shop
-羊毛-youmou-wool
-毛布-moufu-blanket
-番組-bangumi-channel program
-冷蔵庫-reizouko-refrigerator
-湖水-kosui-lake
-太陽-taiyou-sun
-持ち帰り-mochikaeri-take away
-短期-tanki-short term
-短い-mijikai-short
-かき氷-kakigoori-es serut
-向こう-mukou-over there
-委託-itaku-to entrust
-守備-shubi-defence
-昭和-shouwa-Showa Era
-児童-jidou-child
-笛-fue-small flute
-進化-shinka-evolution
-進む-susumu-to go forward
-岸-kishi-bank, plengsengan
-起きる-okiru-to wake up
-津波-tsunami-big wave
-波長-hachou-wavelength
-自由-jiyuu-freedom
-お客様-okyakusama-customer
-根気-konki-patience
-祭り-matsuri-festival
-柱間-hashirama-Hashirama(naruto)
-練習-renshuu-practice
-研究-kenkyuu-research
-拾う-hirou-to pick(down)
-畑-hatake-rice field
-中央-chuuou-center
-急に-kyuuni-suddenly
-救急車-kyuukyuusha-ambulance
-終了-shuuryou-done
-終わる-owaru-to finish
-級友-kyuuyuu-classmate
-横丁-yokochou-side street
-屋上-okujou-rooftop
-屋-ya-room, shop
-仕事-shigoto-work
-習う-narau-to learn
-都道府県-todoufuken-prefecture
-反対-hantai-opposite
-追加-tsuika-addition
+1-正直-shoujiki-honest
+2-正解-seikai-correct answer
+3-貝-kai-shell
+4-弓矢-yumiya-bow and arrow
+5-雲-kumo-cloud
+6-家族-kazoku-family
+7-黄色-kiiro-yellow
+8-戸-to-door
+9-市場-ichiba-market
+10-矢ッ張り-yappari-also, as expected
+11-姉-ane-older sister
+12-紙幣-shihei-paper money
+13-細かい-komakai-chopped finely(small)
+14-細い-hosoi-thin
+15-算出-sanshutsu-calculation
+16-知識-chishiki-knowledge
+17-知る-shiru-to know
+18-親切-shinsetsu-kindness
+19-親-oya-parents
+20-兄弟-kyoudai-siblings
+21-南東-nantou-southeast
+22-南瓜-kabocha-pumpkin
+23-新聞-shinbun-newspaper
+24-聞く-kiku-to ask
+25-明日-ashita-tommorow
+26-明治-meiji-meiji era
+27-妹-imouto-younger sister
+28-体育-taiiku-physical education
+29-晴れ-hare-clear weather
+30-星-hoshi-star
+31-売る-uru-to sell
+32-売店-baiten-shop
+33-羊毛-youmou-wool
+34-毛布-moufu-blanket
+35-番組-bangumi-channel program
+36-冷蔵庫-reizouko-refrigerator
+37-湖水-kosui-lake
+38-太陽-taiyou-sun
+39-持ち帰り-mochikaeri-take away
+40-短期-tanki-short term
+41-短い-mijikai-short
+42-かき氷-kakigoori-es serut
+43-向こう-mukou-over there
+44-委託-itaku-to entrust
+45-守備-shubi-defence
+46-昭和-shouwa-Showa Era
+47-児童-jidou-child
+48-笛-fue-small flute
+49-進化-shinka-evolution
+50-進む-susumu-to go forward
+51-岸-kishi-bank, plengsengan
+52-起きる-okiru-to wake up
+53-津波-tsunami-big wave
+54-波長-hachou-wavelength
+55-自由-jiyuu-freedom
+56-お客様-okyakusama-customer
+57-根気-konki-patience
+58-祭り-matsuri-festival
+59-柱間-hashirama-Hashirama(naruto)
+60-練習-renshuu-practice
+61-研究-kenkyuu-research
+62-拾う-hirou-to pick(down)
+63-畑-hatake-rice field
+64-中央-chuuou-center
+65-急に-kyuuni-suddenly
+66-救急車-kyuukyuusha-ambulance
+67-終了-shuuryou-done
+68-終わる-owaru-to finish
+69-級友-kyuuyuu-classmate
+70-屋上-okujou-rooftop
+71-屋-ya-room, shop
+72-仕事-shigoto-work
+73-習う-narau-to learn
+74-都道府県-todoufuken-prefecture
+75-反対-hantai-opposite
+76-追加-tsuika-addition
+77-神様-kamisama-GOD
+78-神経-shinkei-nerve
+79-去年-kyonen-last year
+80-詩-uta-poetry
+81-横丁-yokochou-side street
+82-章-shou-section, chapter
+83-植物-shokubutsu-plant
+84-植える-ueru-to plant
+85-速い-hayai-fast
+86-早速-sassoku-immediately
+87-坂道-sakamichi-slope
+88-投げる-nageru-to throw
+89-掲示板-keijiban-bulletin board
+90-皮革-hikaku-leather
+91-皮膚-hifu-skin
+92-筆順-hitsujun-stroke order
+93-案内-annai-guide
+94-衣類-irui-clothes
+95-街-machi-city
+96-各-kaku-each
+97-雰囲気-funiki-atmosphere
+98-完了-kanryou-done
+99-警察官-keisatsukan-policeman
+100-議論-giron-discussion
+101-求人-kyuujin-recruitment
+102-救い-sukui-salvation
+103-欠伸-akubi-yawn
+104-欠席-kesseki-absent
+105-景色-keshiki-scenery
+106-野菜-yasai-vegetable
+107-材料-zairyou-material
+108-建物-tatemono-building
+109-挙式-kyoshiki-wedding
+110-漁師-ryoushi-fisherman
+111-健康-kenkou-health
+112-札幌-sapporo-sapporo
+113-共有-kyouyuu-share
+114-共に-tomoni-together
+115-刷る-suru-to paint
+116-固い-katai-hard
+117-殺す-korosu-to kill
+118-殺人-satsujin-killer
+119-功績-kouseki-achievement
+120-警察-keisatsu-police
+121-求める-motomeru-to demand, require
+122-鏡-kagami-mirror
+123-顕微鏡-kenbikyou-microscope
+124-競争-kyousou-competition
+125-季節-kisetsu-season
+126-極み-kiwami-extremity
+127-記念日-kinenbi-anniversary
+128-通貨-tsuuka-currency
+129-旗-hata-flag
+130-芽生え-mebae-sprout
+131-改善-kaizen-improvement
+132-軍人-gunjin-soldier
+133-参考-sankou-refference
+134-候補-kouho-candidate
+135-郡上市-gujou shi-Gujo city
+136-経験-keiken-exp
+137-散歩-sanpo-walk
+138-航空券-koukuuken-plane ticket
+139-氏名-shimei-name
+140-史跡-shiseki-historical site
