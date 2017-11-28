@@ -138,3 +138,273 @@
 138-航空券-koukuuken-plane ticket
 139-氏名-shimei-name
 140-史跡-shiseki-historical site
+141-寿司-sushi-jap. raw fish food
+142-児童-jidou-child
+143-失敗-sippai-failure
+144-周り-surrounded
+145-祝日-public holiday
+146-松かさ-matsukasa-pinecone
+147-照明-shoumei-illumination
+148-賞味期限-shoumikigen-best before
+149-臣民-shinmin-subject
+150-清掃-seisou-cleaning
+151-清水-shimizu-Shimizu
+152-積極的-sekkyokuteki-proactive
+153-節電-setsuden-power saving
+154-浅い-asai-shallow
+155-戦略-senryaku-strategy
+156-然し-shikashi-however
+157-倉庫-souko-warehouse
+158-巣穴-suana-nest hole
+159-折り紙-origami-jap. paper fold
+160-右折-usetsu-turn right
+161-孫-mago-grandson
+162-孫娘-mago musume-granddaughter
+163-帯域幅-taiikihaba-bandwidth
+164-隊長-taichou-captain
+165-腸-chou-intestine
+166-底-tei-bottom
+167-停止-teishi-stop
+168-典型-tenkei-typical
+169-消灯-shoutou-light off
+170-得意-tokui-speciality
+171-毒-doku-poison
+172-熱い-atsui-heat
+173-熱-netsu-fever
+174-敗れる-yabureru-to be defeated
+175-梅干し-umeboshi-salted plum
+176-博士-hakase-doctor
+177-飯-meshi-cooked rice
+178-標準-hyoujun-standard
+179-都道府県-todoufuken-jap. prefecture
+180-大麦粉-oomugikou-weath flour
+181-粉-kona-powder
+182-兵士-heishi-soldier
+183-省エネ-shouene-energy saving
+184-包む-tsutsumu-to wrap
+185-包丁-houchou-knife
+186-辺り-atari-neighborhood
+187-法律-houritsu-law
+188-希望-kibou-hope
+189-牧-maki-maki
+190-末-matsu-the end
+191-脈-myaku-pulse(denyut)
+192-市民-shimin-citizen
+193-栄養-eiyou-nutrition
+194-浴びる-abiru-to take a bath
+195-陸軍-rikugun-land army
+196-労務-roumu-labor
+197-右側-usoku-right side
+198-録音-rokuon-record
+199-圧力-atsuryoku-pressure, tekanan
+200-移動-idou-move, pindah
+201-移る-utsuru-to move(house, living)
+202-原因-gen'in-cause
+203-因る-yoru-to be caused by
+204-永遠-eien-eternity
+205-永住-eijuu-permanent residence
+206-宮-miya/kyuu-palace
+207-衛生-eisei-hygiene, sanitation
+208-易い-yasui-easy
+209-演算-enzan-operation, calculation
+210-一応-ichiou-just in case
+211-桜-sakura-sakura
+212-恩恵-onkei-benefit
+213-可愛い-kawaii-cute
+214-仮に-karini-suppose
+215-仮定-katei-assumption
+216-価格-kakaku-price
+217-河童-kappa-kappa
+218-過去-kako-dulu, past(time)
+219-佐賀県-saga ken-Saga pref
+220-快適な-kaitekina-comfortable
+221-了解-ryoukai-roger
+222-資格-shikaku-qualification
+223-確かに-tashikani-surely
+224-確り-shikkari-tightly(hold)
+225-確かめる-tashikameru-to make sure
+226-確認-kakunin-confirmation
+227-金額-kingaku-amount of money
+228-新刊-shinkan-new release(book)
+229-新幹線-shinkansen-bullet train
+230-習慣-shuukan-habit
+231-慣れる-nareru-to get used to
+232-眼鏡-megane-glasses(kacamata)
+233-基本的に-kihontekini-basically
+234-年寄り-toshiyori-old person
+235-定規-jougi-ruler
+236-新規登録-shinki touroku-sign up
+237-技術-gijutsu-technique
+238-講義-kougi-lecture
+239-逆-gyaku-opposite
+240-真逆-masaka-no way!astaga!
+241-久しぶり-hisashiburi-long time no see
+242-旧-kyuu-old
+243-居酒屋-izakaya-jap.pub
+244-居る-iru-to be, to be exist
+245-許す-yurusu-to forgive
+246-許可する-kyoka suru-to give permission
+247-環境-kankyou-environment, circumstances
+248-均一-kinitsu-se'ragam
+249-禁煙-kinen-no smoking
+250-語句-goku-word and phrases
+251-群馬県-gunma ken-Gunma pref
+252-経験-keiken-experience
+253-経済-keizai-economy
+254-清潔-seiketsu-hygiene, clean
+255-条件-jouken-condition, term
+256-航空券-koukuuken-airplane ticket
+257-危険-kiken-danger!
+258-冒険-bouken-adventure
+259-検討-kentou-examination
+260-限り-kagiri-ASAP
+261-限定-gentei-limited
+262-現在-genzai-current
+263-減る-heru-to decrease
+264-故郷-furusato-hometown
+265-故障-koshou-malfunction
+266-~個-~ko-unit metrix
+267-向かう-mukau-On The Way
+268-効率-kouritsu-effective
+269-厚い-atsui-thick
+270-耕作-kousaku-cultivate
+271-鉱石-kouseki-ore
+272-結構-kekkou-quite enough
+273-興味-kyoumi-interest
+274-講堂-koudou-auditorium
+275-混乱-konran-confuse
+276-混ぜる-mazeru-ot mix
+277-調査-chousa-investigation
+278-再来週-saraishuu-minggu lusa
+279-再〜-sai~-re-
+280-災害-saigai-disaster
+281-妻-tsuma-wife
+282-採用情報-saiyoujouhou-career
+283-実際-jissai-practical
+284-国際-kokusai-international
+285-在留カード-zairyuu kaado-residence card
+286-財布-saifu-wallet
+287-罪-tsumi-sin
+288-雑談-zatsudan-chat
+289-雑誌-zasshi-magazine
+290-賛美歌-sanbika-kidung puji2an
+291-支店-shiten-branch store
+292-意志-ishi-will, intention
+293-酸っぱい-suppai-sour
+294-枝豆-edamame-edamame
+295-教師-kyoushi-teacher
+296-資格-shikaku-qualification
+297-飼う-kau-to breeding, memelihara
+298-掲示板-keijiban-buletin board
+299-似合う-niau-to match, cocok, pas
+300-意識-ishiki-awareness
+300-質問-shitsumon-question
+301-田舎-inaka-rural area
+302-舎-sha-hut, house
+303-謝る-ayamaru-to apologize
+304-授業-jugyou-class, kelas, kuliah
+305-修士-shuushi-master degree
+306-述べる-noberu-to mention, state, menyatakan
+307-美術-bijutsu-art
+308-準備-junbi-preparation
+309-標準-hyoujun-standard, normal
+310-順序-junjo-order, sequence
+311-招待-shotai-invitation
+312-了承-ryoushou-understanding, pengertian
+313-証明書-shoumeisho-certificate
+314-条件-jouken-condition
+315-状況-joukyou-circumstances
+316-常に-tsuneni-always
+317-情報-jouhou-information
+318-織る-oru-to weave, nenun
+319-就職-shuushoku-finding employment
+320-制服-seifuku-uniform
+321-性格-seikaku-personality
+322-政治-seiji-politics
+323-大勢-oozei-crowd of people
+324-精密-seimitsu-precise, exact, precision
+325-製品-seihin-product
+326-税込-zeikomi-tax included
+327-責任-sekinin-responsibility
+328-成績証明書-seiseki shoumesho-academic transcript
+329-接続-setsuzoku-connection
+330-設置-secchi-instalation
+331-設定-settei-configuration
+332-舌-shita-tongue
+333-絶対-zettai-absolutely
+334-銭湯-sentou-public bath
+335-祖母-sobo-grandmother
+336-祖父-sofu-grandfather
+337-素敵-suteki-lovely
+338-素晴らしい-subarashii-awesome
+339-総務部-soumubu-general affair dept.
+340-偽造-gizou-counterfeit, pemalsuan
+341-画像-gazou-image
+342-増える-fueru-to increase-
+343-規則-kisoku-rule, aturan
+344-予測-yosoku-estimation
+345-金属-kinzoku-metal, logam
+346-効率-kouritsu-efficiency
+347-損害-songai-damage, loss, kerusakan
+348-退職-taishoku-retirement
+349-貸す-kasu-to loan
+350-状態-joutai-current situation
+351-布団-futon-jap. mattress
+352-集団-shuudan-group
+353-横断-oudan-crossing(street)
+354-建築家-kenchikuka-architect
+355-頑張る-がんばる-to keep at it, semangat
+356-提供-teikyou-sponsor, dipersembahkan oleh
+357-程-hodo-approximately
+358-適当-tekitou-secukupnya
+359-敵-teki-enemy
+360-伝統-dentou-tradition
+361-青銅-seidou-bronze
+362-指導-shidou-coaching, guidance
+363-徳利-tokkuri-sake bottle pot
+364-独立-dokuritsu-independent, mandiri
+365-任せる-makaseru-to entrust
+366-燃える-moeru-to burn
+367-能力-nouryoku-ability
+368-破る-yaburu-to tear, sobek
+369-防犯-bouhan-prevention crime
+370-評判-hyouban-rumour
+371-判子-hanko-seal, cap
+372-出版-shuppan-publication
+373-比べる-kuraberu-to compare
+374-肥料-hiryou-manure, fertilizer
+375-非常-hijou-emergency
+376-是非-zehi-sure
+377-俵-tawara-cylindrical bag made by straw
+378-好評-kouhyou-good reputation
+379-貧しい-mazushii-poor
+380-貧乏人-binbounin-poor person
+381-毛布-moufu-blanket
+382-夫婦-fuufu-married couple
+383-新郎新婦-shinrou shinpu-bride and groom
+384-富士山-fujisan-mount fuji
+385-復習-fukushuu-review
+386-仏教-bukkyou-budhism
+387-編集-henshuu-edit
+388-弁当-bentou-bento
+389-花弁-hanabira-flower petal
+390-保険-hoken-insurance
+391-墓地-bochi-cemetery
+392-報告-houkoku-report
+393-豊か-yutaka-abundant
+394-豊田-toyoda-Toyota
+395-防災-bousai-disaster prevention
+396-貿易-boueki-trade, perdagangan
+397-暴風-boufuu-windstorm
+398-業務スーパ-gyoumusuupa-supermarket gyoumu
+399-夢-yume-dream
+400-迷惑-meiwaku-annoying
+401-木綿-momen-cotton, kain cotton
+402-輸入-yunyuu-import
+403-輸出-yushutsu-export
+404-余り-amari-not too
+405-預金通帳-yokin tsuuchou-a bankbook
+406-容積-youseki-volume
+407-戦略-sennryaku-strategy
+408-留学生-ryuugakusei-foreign student
+409-領収書-ryoushuusho-receipt
